@@ -1,14 +1,8 @@
-# Apache Template
+庆祝出国近1个月没有中招，写这个项目的时候回国已经值机完成，在西雅图等候返回上海的飞机，我把在疫情期间出入境以及在海外注意事项总结总结，给疫情期间出国的小伙伴一个指引，特别是如何在海外做好防护。
+    整体上，我分成了4篇文章写，请小伙伴们各取所需：
+《2022.9疫情期间，我在国内出关与美国、新加坡入关历程》
+《2022.10疫情期间，我出国如何防范没有感染Covid-19&新加坡、美国驻留指南》
+《2022.10疫情期间，我从新加坡、美国顺利归国的历程》
+《2022.10疫情期间，我国内隔离酒店及返回北京历程》
 
-[Apache Template](https://template.staged.apache.org/)
-
-This repository provides a website template for a site using [ASF-Pelican](https://infra.apache.org/asf-pelican.html). That page, and pages linked from it, provide extensive documentation on how to deploy the template.
-
-Pelican build site infrastructure is [here](https://github.com/apache/infrastructure-pelican). (WIP)
-
-If you use this template for your project website and provide a [logo](https://www.apache.org/logos/),
-your project should pass the "[Apache Project Website Checks](https://whimsy.apache.org/site/)".
-
-## How to use this template
-
-Follow the [Getting started guide](https://infra.apache.org/asf-pelican-gettingstarted.html).
+大家有问题可以提issue，也可以把自己的历程提PR上来，分享给更多的人。
